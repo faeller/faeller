@@ -5,7 +5,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=faeller&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=faeller&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Extremely Inspirational Important And Quite Random Dev Quote
+### ✍️ Immensely inspirational, important, lifechanging, quote about development
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
